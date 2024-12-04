@@ -1,0 +1,1 @@
+This repository contains a VBScript function that demonstrates an uncommon error. The function attempts to count the number of zeros in an array but fails to handle cases with empty arrays or arrays containing non-numeric values.  This leads to runtime errors.  The solution demonstrates robust error handling techniques to address these scenarios.
